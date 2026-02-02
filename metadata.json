@@ -1,0 +1,7 @@
+{
+  "name": "GeoAdmin - Geography Department Management",
+  "description": "A specialized administrative dashboard for the Geography Department to manage students, faculty, and academic results.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
